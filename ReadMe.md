@@ -1,7 +1,8 @@
 
 # StudentDataApi
 ## Contents
-[Login user with "Admin" Role](##Login-user-with-"Admin"-Role)
+[Login user with "Admin" Role](##login-user-with-"Admin"-role)
+[Get All Roles](##get-all-roles)
 ## User Ragistration
 ### Request 
 ##### Method - `POST`
